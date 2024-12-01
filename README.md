@@ -5,6 +5,11 @@
 - [GitHub](https://github.com/UdhayanS)
 - [LinkedIn](https://www.linkedin.com/in/udhayan-sk7/)
 
+  ## 📈 GitHub Stats
+[![Bhoomish's GitHub stats](https://github-readme-stats.vercel.app/api?username=UdhayanS&show_icons=true)](https://github.com/UdhayanS)
+
+---
+
 
 ## About Me
 Hello! I'm **Udhayan**, a passionate **web developer** and **full-stack enthusiast**. I am driven by a love for technology and problem-solving. Here's a little more about me:
