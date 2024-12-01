@@ -34,11 +34,3 @@ Hello! I'm **Udhayan**, a passionate **web developer** and **full-stack enthusia
 ## Reach Out to Me
 Feel free to reach out if you'd like to collaborate on a project, exchange ideas, or just have a tech talk! 😊
 
-## Connect with me on social media:
-- [LinkedIn](https://www.linkedin.com/in/Udhayan-sk7/)
-
-
-<!---
-UdhayanS/UdhayanS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
