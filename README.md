@@ -8,7 +8,7 @@
   ## 📈 GitHub Stats
 [![Udhayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=UdhayanS&show_icons=true)](https://github.com/UdhayanS)
 
-![Background](https://drive.google.com/file/d/1c8nBYiszOwZ335VQxQhyLtiBofa4gKtB/view?usp=sharing)
+
 
 # Welcome to My Profile!
 
