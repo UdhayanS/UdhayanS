@@ -8,6 +8,10 @@
   ## 📈 GitHub Stats
 [![Bhoomish's GitHub stats](https://github-readme-stats.vercel.app/api?username=UdhayanS&show_icons=true)](https://github.com/UdhayanS)
 
+## 🌐 LinkedIn Profile
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udhayan-sk7/)
+
+
 ---
 
 
