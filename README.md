@@ -1,4 +1,6 @@
 # Hi, I'm UdhayanS 👋
+## 🏆 My LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/<your-leetcode-username>)](https://leetcode.com/Udhayan_sk7/)
 
 ## About Me
 Hello! I'm **Udhayan**, a passionate **web developer** and **full-stack enthusiast**. I am driven by a love for technology and problem-solving. Here's a little more about me:
