@@ -1,6 +1,6 @@
 # Hi, I'm UdhayanS 👋
 ## 🏆 My LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/<your-leetcode-username>)](https://leetcode.com/Udhayan_sk7/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Udhayan_sk7)](https://leetcode.com/Udhayan_sk7/)
 ## 🌐 Connect with Me
 - [GitHub](https://github.com/UdhayanS)
 - [LinkedIn](https://www.linkedin.com/in/udhayan-sk7/)
