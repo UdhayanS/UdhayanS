@@ -3,8 +3,6 @@
 
 Welcome to my GitHub profile! Here's a quick overview of my skills and the tools I use to build amazing things. 🛠️
 
-## 🏆 My LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Udhayan_sk7)](https://leetcode.com/Udhayan_sk7/)
 
 ## 🛠️ My Tech Toolbox
 
@@ -34,6 +32,9 @@ Welcome to my GitHub profile! Here's a quick overview of my skills and the tools
 </div>
 
 ---
+## 🏆 My LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Udhayan_sk7)](https://leetcode.com/Udhayan_sk7/)
+
 
 ## 📊 GitHub Stats
 
