@@ -10,27 +10,62 @@
 
 
 
-# Welcome to My Profile!
+# Hi there! 👋 I'm Udhayan 🚀
 
+Welcome to my GitHub profile! Here's a quick overview of my skills and the tools I use to build amazing things. 🛠️
 
+## 🛠️ My Tech Toolbox
 
-## About Me
-Hello! I'm **Udhayan**, a passionate **web developer** and **full-stack enthusiast**. I am driven by a love for technology and problem-solving. Here's a little more about me:
+<div align="center">
 
-- 👀 I’m deeply interested in **web development** and **Java Stack**, and I’m constantly exploring new technologies to stay up to date with the ever-evolving landscape of web apps.
-- 🌱 I’m currently diving into **full-stack development**, learning both **frontend** and **backend** to build robust, user-friendly applications. I’ve been working with **React JS**, **Node.js**, and **Spring Boot**, and I’m excited to expand my knowledge in these areas.
-- 💞️ I’m always looking for collaboration opportunities with like-minded people who are as passionate about tech and innovation as I am. Whether it's working on open-source projects or contributing to a startup idea, I'm open to new ventures and challenges.
-- 📫 How to reach me: I’d love to connect! You can reach me via email at [sudhayan2@gmail.com](mailto:sudhayan2@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/Udhayan-sk7/).
-- 😄 **Pronouns**: He/Him
-- ⚡ **Fun Fact**: Besides coding, I enjoy experimenting with new **UI/UX** designs and exploring how small tweaks can create a huge impact on the user experience. I also love solving puzzles and logic games, which helps me sharpen my problem-solving skills. Oh, and I’m a big fan of **coffee** while coding — it's my fuel for creativity! ☕💻
+### **Languages & Technologies**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
 
-## Skills & Technologies
-- **Frontend**: HTML, CSS, JavaScript, React, Bootstrap
-- **Backend**: Node.js, Spring Boot
-- **Database**: MySQL
-- **Tools**: Git, GitHub, Firebase, Postman, Visual Studio Code
-- **Languages**: Java, Python, JavaScript, C
+### **Tools & Platforms**
+<p>
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</p>
 
-## Reach Out to Me
-Feel free to reach out if you'd like to collaborate on a project, exchange ideas, or just have a tech talk! 😊
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Udhayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Udhayan&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Udhayan&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+- Advanced React
+- Cloud Technology
+- Microservices with Spring Boot
+
+---
+
+## 🤝 Connect with Me
+<p>
+  <a href="https://github.com/UdhayanS"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/Udhayan_sk7"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+</p>
+
 
