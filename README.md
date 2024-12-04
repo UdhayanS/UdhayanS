@@ -1,18 +1,10 @@
-# Hi, I'm UdhayanS 👋
-## 🏆 My LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Udhayan_sk7)](https://leetcode.com/Udhayan_sk7/)
-## 🌐 Connect with Me
-- [GitHub](https://github.com/UdhayanS)
-- [LinkedIn](https://www.linkedin.com/in/udhayan-sk7/)
-
-  ## 📈 GitHub Stats
-[![Udhayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=UdhayanS&show_icons=true)](https://github.com/UdhayanS)
-
-
 
 # Hi there! 👋 I'm Udhayan 🚀
 
 Welcome to my GitHub profile! Here's a quick overview of my skills and the tools I use to build amazing things. 🛠️
+
+## 🏆 My LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Udhayan_sk7)](https://leetcode.com/Udhayan_sk7/)
 
 ## 🛠️ My Tech Toolbox
 
@@ -66,6 +58,8 @@ Welcome to my GitHub profile! Here's a quick overview of my skills and the tools
 <p>
   <a href="https://github.com/UdhayanS"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://leetcode.com/Udhayan_sk7"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.linkedin.com/in/udhayan-sk7/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
 </p>
 
 
