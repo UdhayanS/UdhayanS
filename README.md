@@ -43,11 +43,12 @@ Welcome to my GitHub profile! Here's a quick overview of my skills and the tools
 
 <div align="center">
 
-![Udhayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Udhayan&show_icons=true&theme=radical)
+![UdhayanS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UdhayanS&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Udhayan&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UdhayanS&layout=compact&theme=radical)
 
 </div>
+
 
 ---
 
