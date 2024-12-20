@@ -59,20 +59,26 @@ I have earned the following badges on Infosys Springboard:
 <div align="center">
   <a href="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=836IW54LX3" target="_blank">
     <img src="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=836IW54LX3" alt="The Fledgling" width="100">
+    <p>The Fledgling</p>
   </a>
   <a href="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=51DY31WO61" target="_blank">
     <img src="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=51DY31WO61" alt="Duelist" width="100">
+    <p>Duelist</p>
   </a>
   <a href="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=TXEHMYSDEB" target="_blank">
     <img src="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=TXEHMYSDEB" alt="Warrior" width="100">
+    <p>Warrior</p>
   </a>
   <a href="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=5W5G76DYM6" target="_blank">
     <img src="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=5W5G76DYM6" alt="Ace" width="100">
+    <p>Ace</p>
   </a>
   <a href="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=HG7V34BITK" target="_blank">
     <img src="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=HG7V34BITK" alt="Genie" width="100">
+    <p>Genie</p>
   </a>
 </div>
+
 
 
 ---
