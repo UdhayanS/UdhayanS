@@ -57,37 +57,23 @@ Welcome to my GitHub profile! Here's a quick overview of my skills and the tools
 I have earned the following badges on Infosys Springboard:
 
 <div align="center">
-  <div>
-    <a href="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=836IW54LX3" target="_blank">
-      <img src="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=836IW54LX3" alt="The Fledgling" width="100">
-    </a>
-    <p>The Fledgling</p>
-  </div>
-  <div>
-    <a href="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=51DY31WO61" target="_blank">
-      <img src="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=51DY31WO61" alt="Duelist" width="100">
-    </a>
-    <p>Duelist</p>
-  </div>
-  <div>
-    <a href="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=TXEHMYSDEB" target="_blank">
-      <img src="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=TXEHMYSDEB" alt="Warrior" width="100">
-    </a>
-    <p>Warrior</p>
-  </div>
-  <div>
-    <a href="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=5W5G76DYM6" target="_blank">
-      <img src="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=5W5G76DYM6" alt="Ace" width="100">
-    </a>
-    <p>Ace</p>
-  </div>
-  <div>
-    <a href="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=HG7V34BITK" target="_blank">
-      <img src="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=HG7V34BITK" alt="Genie" width="100">
-    </a>
-    <p>Genie</p>
-  </div>
+  <a href="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=836IW54LX3" target="_blank">
+    <img src="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=836IW54LX3" alt="The Fledgling" width="100">The Fledgling
+  </a>
+  <a href="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=51DY31WO61" target="_blank">
+    <img src="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=51DY31WO61" alt="Duelist" width="100">Duelist
+  </a>
+  <a href="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=TXEHMYSDEB" target="_blank">
+    <img src="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=TXEHMYSDEB" alt="Warrior" width="100">Warrior
+  </a>
+  <a href="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=5W5G76DYM6" target="_blank">
+    <img src="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=5W5G76DYM6" alt="Ace" width="100">Ace
+  </a>
+  <a href="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=HG7V34BITK" target="_blank">
+    <img src="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=HG7V34BITK" alt="Genie" width="100">Genie
+  </a>
 </div>
+
 
 
 ---
