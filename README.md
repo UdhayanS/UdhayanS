@@ -52,6 +52,28 @@ Welcome to my GitHub profile! Here's a quick overview of my skills and the tools
 
 ---
 
+# Infosys Springboard Badges
+
+I have earned the following badges on Infosys Springboard:
+
+1. **The Fledgling**  
+   ![The Fledgling](https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=836IW54LX3)
+
+2. **Duelist**  
+   ![Duelist](https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=51DY31WO61)
+
+3. **Warrior**  
+   ![Warrior](https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=TXEHMYSDEB)
+
+4. **Ace**  
+   ![Ace](https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=5W5G76DYM6)
+
+5. **Genie**  
+   ![Genie](https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=HG7V34BITK)
+
+---
+
+
 ## 🌱 Currently Learning
 - Advanced React
 - Cloud Technology
