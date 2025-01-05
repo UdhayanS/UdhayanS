@@ -53,16 +53,6 @@ I’m currently working on **React**, **Java**, and **Spring Boot** projects and
 
 ---
 
-## 📜 My Projects
-
-1. **[Shift Log Management System](https://github.com/UdhayanS/ShiftLogApp)**
-   - A productivity and safety management app for coal mining, built with **React**, **Firebase**, and **Spring Boot**.
-  
-2. **[Personal Expense Tracker](https://github.com/UdhayanS/ExpenseTrackerApp)**
-   - A full-stack app using **Firebase Realtime Database** to track and manage personal expenses.
-   
----
-
 ## 🔗 Connect with Me
 
 - [GitHub](https://github.com/UdhayanS)
@@ -73,13 +63,15 @@ I’m currently working on **React**, **Java**, and **Spring Boot** projects and
 
 ## 🏅 Infosys Springboard Badges
 
-I have earned the following badges on Infosys Springboard:
+Here are the badges I've earned on **Infosys Springboard**:
 
-- ![Fledgling](https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=836IW54LX3)
-- ![Duelist](https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=51DY31WO61)
-- ![Warrior](https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=TXEHMYSDEB)
-- ![Ace](https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=5W5G76DYM6)
-- ![Genie](https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=HG7V34BITK)
+<p align="center">
+    <img src="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=836IW54LX3" alt="Fledgling" width="100px" />
+    <img src="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=51DY31WO61" alt="Duelist" width="100px" />
+    <img src="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=TXEHMYSDEB" alt="Warrior" width="100px" />
+    <img src="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=5W5G76DYM6" alt="Ace" width="100px" />
+    <img src="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=HG7V34BITK" alt="Genie" width="100px" />
+</p>
 
 ---
 
