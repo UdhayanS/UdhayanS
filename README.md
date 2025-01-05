@@ -39,6 +39,12 @@ I’m currently working on **React**, **Java**, and **Spring Boot** projects and
 
 ---
 
+
+## 🏆 My LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Udhayan_sk7)](https://leetcode.com/Udhayan_sk7/)
+
+
+---
 ## 🏆 GitHub Stats
 
 ![UdhayanS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UdhayanS&show_icons=true&theme=radical)
