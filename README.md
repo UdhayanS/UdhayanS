@@ -1,86 +1,94 @@
-# Hi there! 👋 I'm Udhayan 🚀
+# Welcome to My GitHub Profile! 👋
 
-Welcome to my GitHub profile! Here's a quick overview of my skills and the tools I use to build amazing things. 🛠️
+Hello! I'm **Udhayan**, a passionate web developer and software engineer focusing on both frontend and backend technologies. Here you’ll find some of my work, projects, and tech stack details.
 
 ---
 
-## 🛠️ My Tech Toolbox
+## 🚀 About Me
+
+I’m currently working on **React**, **Java**, and **Spring Boot** projects and am always learning new technologies to enhance my skills. 
+
+- 🔭 I’m currently working on building apps with **React** and **Spring Boot**.
+- 🌱 I’m learning **Cloud Computing** and **Microservices** architecture.
+- 💬 Ask me about **React**, **JavaScript**, and **Java**.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/udhayan-sk7/)
+
+---
+
+## 🛠️ My Tech Stack
 
 ### **Languages & Technologies**
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/SEO-%23e9e9e9.svg?style=for-the-badge&logo=seo&logoColor=black" alt="SEO" />
-</p>
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-%23007396.svg?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
 
 ---
 
 ### **Tools & Platforms**
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-</p>
+
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=black)
 
 ---
 
-## 🏆 My LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Udhayan_sk7)](https://leetcode.com/Udhayan_sk7/)
+## 🏆 GitHub Stats
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  ![UdhayanS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UdhayanS&show_icons=true&theme=radical)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UdhayanS&layout=compact&theme=radical)
-</p>
-
----
-
-## Infosys Springboard Badges
-
-I have earned the following badges on Infosys Springboard:
-
-<p align="center">
-  <a href="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=836IW54LX3" target="_blank">
-    <img src="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=836IW54LX3" alt="The Fledgling" width="100">The Fledgling
-  </a>
-  <a href="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=51DY31WO61" target="_blank">
-    <img src="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=51DY31WO61" alt="Duelist" width="100">Duelist
-  </a>
-  <a href="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=TXEHMYSDEB" target="_blank">
-    <img src="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=TXEHMYSDEB" alt="Warrior" width="100">Warrior
-  </a>
-  <a href="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=5W5G76DYM6" target="_blank">
-    <img src="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=5W5G76DYM6" alt="Ace" width="100">Ace
-  </a>
-  <a href="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=HG7V34BITK" target="_blank">
-    <img src="https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=HG7V34BITK" alt="Genie" width="100">Genie
-  </a>
-</p>
+![UdhayanS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UdhayanS&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UdhayanS&layout=compact&theme=radical)
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced React
-- Cloud Technology
-- Microservices with Spring Boot
+- **Advanced React**
+- **Cloud Technologies**
+- **Microservices with Spring Boot**
 
 ---
 
-## 🤝 Connect with Me
-<p>
-  <a href="https://github.com/UdhayanS"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://leetcode.com/Udhayan_sk7"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://www.linkedin.com/in/udhayan-sk7/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+## 📜 My Projects
+
+1. **[Shift Log Management System](https://github.com/UdhayanS/ShiftLogApp)**
+   - A productivity and safety management app for coal mining, built with **React**, **Firebase**, and **Spring Boot**.
+  
+2. **[Personal Expense Tracker](https://github.com/UdhayanS/ExpenseTrackerApp)**
+   - A full-stack app using **Firebase Realtime Database** to track and manage personal expenses.
+   
+---
+
+## 🔗 Connect with Me
+
+- [GitHub](https://github.com/UdhayanS)
+- [LeetCode](https://leetcode.com/Udhayan_sk7/)
+- [LinkedIn](https://www.linkedin.com/in/udhayan-sk7/)
+
+---
+
+## 🏅 Infosys Springboard Badges
+
+I have earned the following badges on Infosys Springboard:
+
+- ![Fledgling](https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=836IW54LX3)
+- ![Duelist](https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=51DY31WO61)
+- ![Warrior](https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=TXEHMYSDEB)
+- ![Ace](https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=5W5G76DYM6)
+- ![Genie](https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=HG7V34BITK)
+
+---
+
+## 💬 Let's Talk!
+
+I’m always open to discussions on web development, software engineering, and tech innovations. If you’d like to connect, feel free to reach out via any of the following platforms.
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
