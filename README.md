@@ -76,6 +76,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=UdhayanS&show_icons=true&theme=radical" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdhayanS&layout=compact&theme=radical" height="170"/>
 </p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UdhayanS&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdhayanS&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
+</p>
 
 ---
 
